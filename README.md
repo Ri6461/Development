@@ -1,5 +1,9 @@
 Land Rental Management System for TechnoPropertyNepalLand Rental Management System for TechnoPropertyNepal
+
+
 Apr 2024 - May 2024
+
+
 Developed a Python-based application to manage land rental transactions for TechnoPropertyNepal. The system reads and updates a text file containing land availability and generates detailed invoices for each transaction.
 
 Key Features:
